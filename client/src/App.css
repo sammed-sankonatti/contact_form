@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.user_details{
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+} 
+
+h2{
+    font-size: 2.3rem;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input{
+    padding: 0.6rem;
+    margin: 0.5rem;
+    border-radius: 1rem !important;
+    outline: none !important;
+    border: none !important;
+    width: 16rem !important;
+    height: 3rem !important;
+    background: #fff !important;
+}
+
+label{
+    color: rgb(18, 10, 131);
+    font-size: 1.2rem;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+
+input::placeholder{
+    padding-left: 3rem;
+}
+
+
+.button{
+    padding: 0.7rem;
+    margin: 1rem 0 0 0;
+    background: linear-gradient(135deg, rgb(53, 66, 185), rgb(88, 49, 161));
+    cursor: pointer;
+    border: none;
+    font-size: 1rem;
+    border-radius: 1rem;
+    width: 15rem;
+    color: whitesmoke;
+}
+

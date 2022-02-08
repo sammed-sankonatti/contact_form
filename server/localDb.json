@@ -1,0 +1,23 @@
+[
+  {
+    "firstname": "Amit",
+    "lastname": "patil",
+    "email": "amit@gmail.com",
+    "phone": "9876543210",
+    "zipcode": "560001"
+  },
+  {
+    "firstname": "sourabh",
+    "lastname": "patil",
+    "email": "sourabh@gmail.com",
+    "phone": "9876543210",
+    "zipcode": "560002"
+  },
+  {
+    "firstname": "sammed",
+    "lastname": "sankonatti",
+    "email": "sammed.sankonatti45@gmail.com",
+    "phone": "8317379314",
+    "zipcode": "560004"
+  }
+]
